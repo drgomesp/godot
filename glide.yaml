@@ -1,0 +1,4 @@
+package: github.com/drgomesp/godot
+import:
+- package: github.com/smartystreets/goconvey
+- package: github.com/drgomesp/cargo

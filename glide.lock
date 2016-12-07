@@ -1,0 +1,8 @@
+hash: 6bf5417b8ac8a58c4a7419d8b5e91e73fbd14b9708c81ecc38190a140c66fb36
+updated: 2016-12-04T12:55:50.32408788+04:00
+imports:
+- name: github.com/drgomesp/cargo
+  version: 7541364c76fac2391aca9f010a412cb9f9db319a
+- name: github.com/smartystreets/goconvey
+  version: 3c2572876754c4669ae7417b219f0b30a29b32c7
+devImports: []
